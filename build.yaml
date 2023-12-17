@@ -4,5 +4,5 @@
 # "board". For a dongleless setup, you will need to modify both "board" and
 # "shield". Please see "readme.md" for more details.
 include:
-  - board: nice_nano_v2
+  - board: nRF52840-nicenano
     shield: slicemk_ergodox_leftcentral
